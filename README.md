@@ -1,2 +1,2 @@
-# -control_customers
- customer control platform
+# management_platform
+ customer management platform
